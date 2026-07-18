@@ -9,9 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
@@ -19,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch linux logo"  />
-  <img width="12" />
 </div>
 
 <div align="center">
@@ -31,6 +27,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 <!--
