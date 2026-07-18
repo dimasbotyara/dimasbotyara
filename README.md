@@ -1,11 +1,15 @@
-## Hi there 👋
+## 🐸 dimasbotyara | i use arch btw
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A9B665&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+dimasbotyara%2F%2F;Building+botyarajump...;I+use+Arch+Linux+btw+%F0%9F%90%A7" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pygame" height="40" alt="pygame logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
