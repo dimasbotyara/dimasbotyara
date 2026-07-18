@@ -38,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dimasbotyara&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
+</p>
+
 <!--
 **dimasbotyara/dimasbotyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
