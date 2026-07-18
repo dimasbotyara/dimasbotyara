@@ -1,7 +1,5 @@
 ## 🐸 dimasbotyara | i use arch btw
 
-
-
 ###
 
 <div align="center">
@@ -49,7 +47,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dimasbotyara/dimasbotyara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=dimasbotyara&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasbotyara&theme=tokyonight&hide_border=true" />
 </p>
 
 <!--
