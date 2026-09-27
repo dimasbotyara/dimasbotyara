@@ -47,8 +47,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=dimasbotyara&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimasbotyara&theme=radical&no-frame=true&no-bg=false&margin-w=4">
 </p>
+
 
 ###
 
