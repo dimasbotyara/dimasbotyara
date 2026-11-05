@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  # Запускать каждые 12 часов
+  schedule:
+    - cron: "0 */12 * * *"
+  # Позволяет запустить вручную для теста
+  workflow_dispatch:
+  # Запускать при пуше в main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      # Генерирует SVG-файлы со змейкой
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Пушит сгенерированные файлы в ветку `output`
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
