@@ -111,5 +111,9 @@ dimasbotyara@archlinux / [1]
 ---
 
 <p align="center">
+  <img src="dimasbotyara.webp" alt="dimasbotyara" height="80" />
+</p>
+
+<p align="center">
   made with 💜 by <a href="https://github.com/dimasbotyara">dimasbotyara</a>
 </p>
