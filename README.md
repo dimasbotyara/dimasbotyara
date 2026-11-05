@@ -79,6 +79,9 @@ touch: cannot touch 'grass': Permission denied
 
 ```bash
 dimasbotyara@archlinux /
+❯ touch grass
+touch: cannot touch 'grass': Permission denied
+dimasbotyara@archlinux / [1]
 ❯ fastfetch
                   -`                     dimasbotyara@archlinux
                  .o+`                    ----------------------
