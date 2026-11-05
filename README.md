@@ -47,20 +47,37 @@
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dimasbotyara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&locale=en" />
 </p>
 
-## 🛠 My favorite projects
+## 🛠 stuff i built
 
-- **[botyaranewtab](https://github.com/dimasbotyara/botyaranewtab)** — local-first customizable new tab page. This is the one I use every single day.
-- **[botyaratalk](https://github.com/dimasbotyara/botyaratalk)** — chat app I keep coming back to.
-- **[botyarapong](https://github.com/dimasbotyara/botyarapong)** — 28 power-ups, LAN multiplayer, pure Pygame.
-- **[botyaracloud](https://github.com/dimasbotyara/botyaracloud)** — self-hosted LAN file server. Actually pleasant to use.
-- **[botyarajump](https://github.com/dimasbotyara/botyarajump)** — Doodle Jump–style platformer with endless modes, daily quests and a built-in level editor.
+- **[botyaranewtab](https://github.com/dimasbotyara/botyaranewtab)** — local-first customizable new tab page. i use it every single day 🌐
+- **[botyaratalk](https://github.com/dimasbotyara/botyaratalk)** — chat app i keep coming back to 💬
+- **[botyarapong](https://github.com/dimasbotyara/botyarapong)** — 28 power-ups, LAN multiplayer, pure pygame 🏓
+- **[botyaracloud](https://github.com/dimasbotyara/botyaracloud)** — self-hosted LAN file server. actually pleasant to use ☁️
+- **[botyarajump](https://github.com/dimasbotyara/botyarajump)** — doodle jump-style platformer with endless modes, daily quests and a built-in level editor 🦘
 
-## 🤖 How I write code
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimasbotyara/dimasbotyara/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimasbotyara/dimasbotyara/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dimasbotyara/dimasbotyara/output/github-snake.svg">
+  </picture>
+</div>
 
-I write code **with AI** — but not in "accept → accept" mode. Every diff gets read, every prompt is crafted with care, and I spend more time refining prompts and reviewing generated code than I'd spend typing it by hand.
+## 🤖 how i code
 
-## Total profile visits 😭:
-<img src='https://count.getloli.com/@dimasbotyara?name=dimasbotyara&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+i write code **with ai**, but i actually read every diff. i spend more time on prompts and review than i would typing it all by hand. the ai is the tool, i'm the one deciding what ships ✨
+
+## 🌱 currently trying to
+
+```bash
+dimasbotyara@cachyos /
+❯ touch grass
+touch: cannot touch 'grass': Permission denied
+```
+
+## total profile visits 😭
+
+<img src="https://count.getloli.com/@dimasbotyara?name=dimasbotyara&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="400px" alt="visit counter" />
 
 ---
 
