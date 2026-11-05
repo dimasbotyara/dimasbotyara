@@ -75,6 +75,32 @@ dimasbotyara@cachyos /
 touch: cannot touch 'grass': Permission denied
 ```
 
+**even on my weak pc!** 😭😭
+
+```bash
+dimasbotyara@archlinux /
+❯ fastfetch
+                  -`                     dimasbotyara@archlinux
+                 .o+`                    ----------------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: HP Pavilion dv9700 Notebook PC (Rev 1)
+              `+oooooo:                  Kernel: Linux 5.15.209-1-lts515
+              -+oooooo+:                 Uptime: 2 mins
+            `/:-:++oooo+:                Packages: 19 (flatpak), 1628 (pacman)
+           `/++++/+++++++:               Shell: fish 4.9.3
+          `/++++++++++++++:              Terminal: /dev/pts/0 10.6p1
+         `/+++ooooooooooooo/`            CPU: Intel(R) Core(TM)2 Duo T5850 (2) @ 2.17 GHz
+        ./ooosssso++osssssso+`           GPU: NVIDIA GeForce 8600M GS [Discrete]
+       .oossssso-````/ossssss+`          Memory: 561.55 MiB / 3.83 GiB (14%)
+      -osssssso.      :ssssssso.         Swap: 0 B / 1.91 GiB (0%)
+     :osssssss/        osssso+++.        Disk (/): 247.27 GiB / 291.36 GiB (85%) - ext4
+    /ossssssss/        +ssssooo/-        Local IP (wlp2s0): 192.168.1.46/24
+  `/ossssso+/:-        -:/+osssso+-      Battery (Primary): 0% [AC Connected, Unknown]
+ `+sso+:-`                 `.-/+oso:     Locale: ru_RU.UTF-8
+`++:.                           `-/+/
+.`                                 `/
+```
+
 ## total profile visits 😭
 
 <img src="https://count.getloli.com/@dimasbotyara?name=dimasbotyara&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="400px" alt="visit counter" />
