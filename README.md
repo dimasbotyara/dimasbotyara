@@ -43,19 +43,27 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=dimasbotyara&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dimasbotyara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=en" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dimasbotyara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&locale=en" />
 </p>
 
-###
+## 🛠 My favorite projects
+
+- **[botyaranewtab](https://github.com/dimasbotyara/botyaranewtab)** — local-first customizable new tab page. This is the one I use every single day.
+- **[botyaratalk](https://github.com/dimasbotyara/botyaratalk)** — chat app I keep coming back to.
+- **[botyarapong](https://github.com/dimasbotyara/botyarapong)** — 28 power-ups, LAN multiplayer, pure Pygame.
+- **[botyaracloud](https://github.com/dimasbotyara/botyaracloud)** — self-hosted LAN file server. Actually pleasant to use.
+- **[botyarajump](https://github.com/dimasbotyara/botyarajump)** — Doodle Jump–style platformer with endless modes, daily quests and a built-in level editor.
+
+## 🤖 How I write code
+
+I write code **with AI** — but not in "accept → accept" mode. Every diff gets read, every prompt is crafted with care, and I spend more time refining prompts and reviewing generated code than I'd spend typing it by hand.
+
+## Total profile visits 😭:
+<img src='https://count.getloli.com/@dimasbotyara?name=dimasbotyara&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasbotyara&theme=tokyonight&hide_border=true" />
+  made with 💜 by <a href="https://github.com/dimasbotyara">dimasbotyara</a>
 </p>
-
-<!--
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A9B665&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+dimasbotyara%2F%2F;I+use+Arch+Linux+btw+%F0%9F%90%A7" alt="Typing SVG" />
-  </a>
-</p>
--->
